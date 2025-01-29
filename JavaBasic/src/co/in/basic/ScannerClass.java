@@ -6,8 +6,8 @@ import java.util.Scanner;
  * Ye class user se input lene ke liye Scanner ka use karti hai.
  * Program do numbers ke sum ko calculate karega jo user input karega.
  * 
- * @author AapkaNaam
- * @version 1.0
+ * @author KanakSoni
+ * @version 3.1
  */
 public class ScannerClass {
     
